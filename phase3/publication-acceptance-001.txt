@@ -1,1 +1,6 @@
-
+Automaton Phase 3 external publication acceptance test
+This is a technical test, not a product, offer, or customer solicitation.
+Business ID: bus-1792427785312-gwfzf9
+Source action ID: auto-offer-bus-1792427785312-gwfzf9
+Verified source SHA-256: 5f67fab4cafe771321c579d1e29726b77bd83ed7f334c9616dabab34a9952a15
+No payments or personal data are requested.
